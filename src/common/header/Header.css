@@ -183,6 +183,11 @@ header ul li a:hover {
         z-index: 999;
     }
 
+    .open {
+        top: 18px;
+        right: 30px;
+    }
+
     .close {
         right: 45%;
     }
